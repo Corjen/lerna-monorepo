@@ -6,6 +6,6 @@ export interface AppProps {
 }
 
 export const App: React.FunctionComponent<AppProps> = ({ text }) => {
-    //
+    //12412
     return <Main text={text} />;
 };
